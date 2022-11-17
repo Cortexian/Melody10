@@ -1,4 +1,6 @@
-The firmware provided was generated using kbfirmware.com for an Elite-C V4 controller. Please see the following images for wiring guide and recommended pin mapping.
+The firmware provided was generated using kbfirmware.com for an Elite-C V4 controller and the 2u+ plate.
+
+Please see the following images for wiring guide and recommended pin mapping.
 
 ![image](https://user-images.githubusercontent.com/76460985/202427901-031e370b-fd28-4e36-ac4f-7f6aafd417e3.png)
 
